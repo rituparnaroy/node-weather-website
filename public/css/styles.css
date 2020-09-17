@@ -1,4 +1,4 @@
-body {
+/* body {
     color: #333333;
     font-family: arial;
     max-width: 650px;
@@ -39,4 +39,34 @@ header a {
 
 .portrait {
     width: 250px;
+} */
+
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #9575CD;
+    color: floralwhite; 
 }
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px; 
+}
+  
+  .row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px; 
+}
+  
+  .footer {
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px; 
+}
+
+    body {
+        padding: 50px 0px 0px 0px;
+        z-index: 0; 
+    }
